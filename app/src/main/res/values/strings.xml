@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hw_7_month_2</string>
+    <string name="category">Category</string>
+    <string name="explore_the_nightlife_of_your_city">Explore the nightlife of your city</string>
+    <string name="free">Free</string>
+    <string name="participants">participants</string>
+    <string name="accessibility">accessibility</string>
+    <string name="price">Price💰</string>
+    <string name="_participants">Participants</string>
+    <string name="_accessibility">Accessibility</string>
+</resources>
